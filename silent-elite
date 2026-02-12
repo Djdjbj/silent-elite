@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Silent Elite</title>
+<style>
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #000;
+  color: white;
+  text-align: center;
+}
+
+header {
+  padding: 40px 20px;
+}
+
+h1 {
+  font-size: 38px;
+  letter-spacing: 5px;
+}
+
+.tagline {
+  color: #aaa;
+  margin-top: 10px;
+}
+
+.product {
+  background: #111;
+  margin: 30px auto;
+  padding: 20px;
+  width: 90%;
+  max-width: 400px;
+  border-radius: 15px;
+}
+
+.product img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.price {
+  margin: 15px 0;
+  font-size: 20px;
+}
+
+button {
+  background: white;
+  color: black;
+  border: none;
+  padding: 12px 20px;
+  font-weight: bold;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+footer {
+  margin: 50px 0 20px 0;
+  font-size: 12px;
+  color: #777;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+  <h1>SILENT ELITE</h1>
+  <div class="tagline">Work in Silence 🔥</div>
+</header>
+
+<div class="product">
+  <img src="https://via.placeholder.com/400x400.png?text=Silent+Elite+Black+Tee" alt="Silent Elite Tee">
+  <h2>Silent Elite - Black Minimal Tee</h2>
+  <div class="price">199 MAD</div>
+  <a href="https://wa
